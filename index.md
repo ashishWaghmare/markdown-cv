@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ashsih Waghmare's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ashish Waghmare
+Engineer | Cloud | DevOps
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="http://ashishwaghmare.com">My Home page</a>
 </div>
 
 
